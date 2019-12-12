@@ -1,77 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="idea_type" table="x_432099_innovate_innovate" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>idea_type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Cost savings</label>
-            <language>en</language>
-            <name>x_432099_innovate_innovate</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-11 07:34:07</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>ab50055fdb6100109ec67b82399619e7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-11 07:34:07</sys_updated_on>
-            <value>cost</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>idea_type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Process Improvement</label>
-            <language>en</language>
-            <name>x_432099_innovate_innovate</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-11 07:34:07</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>a750055fdb6100109ec67b82399619ea</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-11 07:34:07</sys_updated_on>
-            <value>process</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>idea_type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Team Building</label>
-            <language>en</language>
-            <name>x_432099_innovate_innovate</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-11 07:34:07</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>2b50055fdb6100109ec67b82399619ec</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-11 07:34:07</sys_updated_on>
-            <value>team</value>
-        </sys_choice>
-        <sys_choice_set action="INSERT_OR_UPDATE">
+    <sys_choice action="DELETE" field="idea_type" table="x_432099_innovate_innovate" version="3">
+        <sys_choice_set action="DELETE">
             <element>idea_type</element>
             <name>x_432099_innovate_innovate</name>
-            <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-11 07:34:07</sys_created_on>
-            <sys_id>2b50055fdb6100109ec67b82399619e8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>idea_type</sys_name>
-            <sys_package display_value="Innovate" source="x_432099_innovate">f44f3093db6100109ec67b82399619ed</sys_package>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
             <sys_policy/>
-            <sys_scope display_value="Innovate">f44f3093db6100109ec67b82399619ed</sys_scope>
-            <sys_update_name>sys_choice_x_432099_innovate_innovate_idea_type</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-11 07:34:07</sys_updated_on>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2019-12-12 03:37:43</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>cac0f7c4db74b3400b9d21c405961934</instance_id>
+        <instance_name>dev79887</instance_name>
+        <name>sys_choice_x_432099_innovate_innovate_idea_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="idea_type" table="x_432099_innovate_innovate" version="3"><sys_choice_set action="DELETE"><element>idea_type</element><name>x_432099_innovate_innovate</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2019-12-12 03:37:43</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1750080998</payload_hash>
+        <record_name>x_432099_innovate_innovate.idea_type</record_name>
+        <reverted_from/>
+        <source>b04f38dbdb6100109ec67b8239961991</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-12 03:37:43</sys_created_on>
+        <sys_id>dad35967db2100109ec67b8239961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ef82f0e1b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-12 03:37:43</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>56d35967a82100107ef4b1dd4112bd49</update_guid>
+        <update_guid_history>56d35967a82100107ef4b1dd4112bd49:-1750080998,5ad35967512100104f249bee67df4c46:-4597645,56d35967492100103c9adc0ed6b69344:1941764994,ef50055f42610010510f56e2239a46ed:1333433680,6f50055f3961001071779257de6020eb:1167724795,2f50055f946100109fcb848aadecede9:1392830442</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-12 03:37:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>58e39967db2100109ec67b82399619df</sys_id>
+        <sys_metadata>58e39967db2100109ec67b82399619df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>idea_type</sys_name>
+        <sys_package display_value="Innovate" source="x_432099_innovate">f44f3093db6100109ec67b82399619ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">f44f3093db6100109ec67b82399619ed</sys_scope>
+        <sys_scope_delete display_value="">18c02cde568e43949cd48e71f67cf410</sys_scope_delete>
+        <sys_update_name>sys_choice_x_432099_innovate_innovate_idea_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_432099_innovate_innovate_idea_type">dad35967db2100109ec67b8239961949</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-12 03:37:53</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>

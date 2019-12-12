@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_432099_innovate_innovate</name>
+        <name>x_432099_innovate_employee</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-12-11 07:34:06</sys_created_on>
-        <sys_id>2350055fdb6100109ec67b82399619b2</sys_id>
+        <sys_created_on>2019-12-12 03:39:59</sys_created_on>
+        <sys_id>d35499e7db2100109ec67b82399619c0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_432099_innovate_innovate</sys_name>
+        <sys_name>x_432099_innovate_employee</sys_name>
         <sys_package display_value="Innovate" source="x_432099_innovate">f44f3093db6100109ec67b82399619ed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Innovate">f44f3093db6100109ec67b82399619ed</sys_scope>
-        <sys_update_name>ua_table_licensing_config_2350055fdb6100109ec67b82399619b2</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_d35499e7db2100109ec67b82399619c0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-11 07:34:06</sys_updated_on>
+        <sys_updated_on>2019-12-12 03:39:59</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
